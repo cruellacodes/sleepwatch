@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply antialiased bg-app-bg text-gray-100;
+  }
+}
+
+@layer components {
+  .glass-panel {
+    @apply bg-app-surface/50 backdrop-blur-md border border-white/10 shadow-xl;
+  }
+  
+  .glass-card {
+    @apply bg-app-surface-highlight/40 backdrop-blur-sm border border-white/5 hover:border-white/10 transition-all duration-300;
+  }
+
+  .text-glow {
+    text-shadow: 0 0 10px currentColor;
+  }
+  
+  .border-glow {
+    box-shadow: 0 0 10px -2px currentColor;
+  }
+}
+
+/* Leaflet CSS overrides for dark theme */
+.leaflet-container {
+  background: #0B1121 !important;
+  font-family: inherit;
+}
+
+.leaflet-popup-content-wrapper {
+  @apply bg-app-surface border border-white/10 text-gray-100 !important;
+  border-radius: 0.5rem !important;
+  backdrop-filter: blur(8px);
+}
+
+.leaflet-popup-tip {
+  @apply bg-app-surface !important;
+}
+
+.aircraft-marker {
+  transition: all 0.3s ease;
+}
+
+/* Custom scrollbar */
+.scrollbar-thin::-webkit-scrollbar {
+  width: 6px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-track {
+  background: #0B1121;
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 3px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb:hover {
+  background: #475569;
+}

@@ -1,0 +1,187 @@
+icao_hex,registration,aircraft_type,owner_country,owner_org,is_military,is_government,is_vip,is_intel,vip_tier,home_base_airport,notes
+adfdf8,82-8000,Boeing VC-25A,US,USAF,1,1,1,0,1,KAFW,Air Force One - Presidential aircraft
+adfdf9,86-9000,Boeing VC-25A,US,USAF,1,1,1,0,1,KAFW,Air Force One - Presidential aircraft backup
+adfeb3,73-1676,Boeing E-4B,US,USAF,1,1,1,0,1,KOFF,Nightwatch Doomsday plane
+adfeb4,73-1677,Boeing E-4B,US,USAF,1,1,1,0,1,KOFF,Nightwatch Doomsday plane
+adfeb5,74-0787,Boeing E-4B,US,USAF,1,1,1,0,1,KOFF,Nightwatch Doomsday plane
+adfeb6,75-0125,Boeing E-4B,US,USAF,1,1,1,0,1,KOFF,Nightwatch Doomsday plane
+ae115d,01-0015,Boeing C-40B,US,USAF,1,1,1,0,2,KAFW,VIP/Government transport
+ae0945,01-0040,Boeing C-40B,US,USAF,1,1,1,0,2,KAFW,VIP/Government transport
+ae11f6,01-0041,Boeing C-40B,US,USAF,1,1,1,0,2,KAFW,VIP/Government transport
+ae11f8,02-0042,Boeing C-40B,US,USAF,1,1,1,0,2,KAFW,VIP/Government transport
+ae1165,02-0201,Boeing C-40C,US,USAF,1,1,1,0,2,KAFW,VIP/Government transport
+ae1167,02-0202,Boeing C-40C,US,USAF,1,1,1,0,2,KAFW,VIP/Government transport
+ae11fa,02-0203,Boeing C-40C,US,USAF,1,1,1,0,2,KAFW,VIP/Government transport
+ae0443,00-9001,Boeing C-32B,US,USAF,1,1,1,0,2,KAFW,Special Operations transport
+ae04d8,165830,Boeing C-40A,US,US Navy,1,1,0,0,3,KNFW,Navy logistics transport
+ae04d9,165831,Boeing C-40A,US,US Navy,1,1,0,0,3,KNFW,Navy logistics transport
+ae04da,165832,Boeing C-40A,US,US Navy,1,1,0,0,3,KNFW,Navy logistics transport
+ae0976,165833,Boeing C-40A,US,US Navy,1,1,0,0,3,KNFW,Navy logistics transport
+ae0977,165834,Boeing C-40A,US,US Navy,1,1,0,0,3,KNFW,Navy logistics transport
+ae1251,165835,Boeing C-40A,US,US Navy,1,1,0,0,3,KNFW,Navy logistics transport
+ae1252,165836,Boeing C-40A,US,US Navy,1,1,0,0,3,KNFW,Navy logistics transport
+ae147a,166693,Boeing C-40A,US,US Navy,1,1,0,0,3,KNFW,Navy logistics transport
+ae29fd,166694,Boeing C-40A,US,US Navy,1,1,0,0,3,KNFW,Navy logistics transport
+ae29fe,166695,Boeing C-40A,US,US Navy,1,1,0,0,3,KNFW,Navy logistics transport
+ae4a60,166696,Boeing C-40A,US,US Navy,1,1,0,0,3,KNFW,Navy logistics transport
+ae5718,168980,Boeing C-40A,US,US Navy,1,1,0,0,3,KNFW,Navy logistics transport
+ae0676,00-0171,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+ae0677,00-0172,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+ae0678,00-0173,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+ae0679,00-0174,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+ae0811,00-0175,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+ae1235,03-3124,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa0290,07-7170,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa0291,07-7171,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa0292,07-7172,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa0293,07-7173,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa0294,07-7174,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa0295,07-7175,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa0296,08-8190,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa0297,08-8191,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa0298,08-8192,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa0299,08-8193,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa029a,08-8194,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa029b,08-8195,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa029c,08-8196,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa029d,08-8197,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa029e,08-8198,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa029f,08-8199,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa02a0,08-8200,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa02a1,08-8201,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa02a2,08-8202,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa02a3,08-8203,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa02a4,09-9206,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa02a5,09-9207,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa02a6,09-9208,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa02a7,09-9209,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa02a8,09-9210,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa02a9,10-0213,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa02aa,10-0214,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa02ab,10-0215,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa02ac,10-0216,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa02ad,10-0217,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa02ae,10-0218,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa02af,10-0219,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+aa02b0,10-0220,Boeing C-17A,US,USAF,1,0,0,0,4,KBGR,Strategic airlift
+43c6f9,ZZ336,Airbus Voyager KC3,GB,RAF,1,1,1,0,1,EGVA,Vespina - PM and Royal transport
+43c1cd,ZZ171,Boeing C-17,GB,RAF,1,0,0,0,4,EGVA,UK strategic airlift
+43c1ce,ZZ172,Boeing C-17,GB,RAF,1,0,0,0,4,EGVA,UK strategic airlift
+43c1cf,ZZ173,Boeing C-17,GB,RAF,1,0,0,0,4,EGVA,UK strategic airlift
+43c1d0,ZZ174,Boeing C-17,GB,RAF,1,0,0,0,4,EGVA,UK strategic airlift
+43c1d1,ZZ175,Boeing C-17,GB,RAF,1,0,0,0,4,EGVA,UK strategic airlift
+43c1d2,ZZ176,Boeing C-17,GB,RAF,1,0,0,0,4,EGVA,UK strategic airlift
+43c1d3,ZZ177,Boeing C-17,GB,RAF,1,0,0,0,4,EGVA,UK strategic airlift
+43c1d4,ZZ178,Boeing C-17,GB,RAF,1,0,0,0,4,EGVA,UK strategic airlift
+43c2de,ZM400,Airbus A400M,GB,RAF,1,0,0,0,4,EGVA,UK tactical airlift
+43c2df,ZM401,Airbus A400M,GB,RAF,1,0,0,0,4,EGVA,UK tactical airlift
+43c2e0,ZM402,Airbus A400M,GB,RAF,1,0,0,0,4,EGVA,UK tactical airlift
+43c2e1,ZM403,Airbus A400M,GB,RAF,1,0,0,0,4,EGVA,UK tactical airlift
+43c2e2,ZM404,Airbus A400M,GB,RAF,1,0,0,0,4,EGVA,UK tactical airlift
+43c2e3,ZM405,Airbus A400M,GB,RAF,1,0,0,0,4,EGVA,UK tactical airlift
+43c2e4,ZM406,Airbus A400M,GB,RAF,1,0,0,0,4,EGVA,UK tactical airlift
+43c2e5,ZM407,Airbus A400M,GB,RAF,1,0,0,0,4,EGVA,UK tactical airlift
+43c2e6,ZM408,Airbus A400M,GB,RAF,1,0,0,0,4,EGVA,UK tactical airlift
+43c2e7,ZM409,Airbus A400M,GB,RAF,1,0,0,0,4,EGVA,UK tactical airlift
+43c2e8,ZM410,Airbus A400M,GB,RAF,1,0,0,0,4,EGVA,UK tactical airlift
+43c2e9,ZM411,Airbus A400M,GB,RAF,1,0,0,0,4,EGVA,UK tactical airlift
+43c2ea,ZM412,Airbus A400M,GB,RAF,1,0,0,0,4,EGVA,UK tactical airlift
+43c2eb,ZM413,Airbus A400M,GB,RAF,1,0,0,0,4,EGVA,UK tactical airlift
+43c2ec,ZM414,Airbus A400M,GB,RAF,1,0,0,0,4,EGVA,UK tactical airlift
+43c2ed,ZM415,Airbus A400M,GB,RAF,1,0,0,0,4,EGVA,UK tactical airlift
+43c2ee,ZM416,Airbus A400M,GB,RAF,1,0,0,0,4,EGVA,UK tactical airlift
+43c2ef,ZM417,Airbus A400M,GB,RAF,1,0,0,0,4,EGVA,UK tactical airlift
+43c2f0,ZM418,Airbus A400M,GB,RAF,1,0,0,0,4,EGVA,UK tactical airlift
+43c2f1,ZM419,Airbus A400M,GB,RAF,1,0,0,0,4,EGVA,UK tactical airlift
+43c2f2,ZM420,Airbus A400M,GB,RAF,1,0,0,0,4,EGVA,UK tactical airlift
+43c2f3,ZM421,Airbus A400M,GB,RAF,1,0,0,0,4,EGVA,UK tactical airlift
+3b76ae,F-RARF,Airbus A330-223,FR,French Air Force,1,1,1,0,1,LFPB,COTAM 001 - Presidential
+3b7782,F-RAJA,Airbus A340-212,FR,French Air Force,1,1,1,0,1,LFPB,COTAM - Presidential backup
+3f4b79,F-RBAA,Airbus A400M,FR,French AF,1,0,0,0,4,LFOB,Tactical airlift
+3f4b7a,F-RBAB,Airbus A400M,FR,French AF,1,0,0,0,4,LFOB,Tactical airlift
+3f4b7b,F-RBAC,Airbus A400M,FR,French AF,1,0,0,0,4,LFOB,Tactical airlift
+3f4b7c,F-RBAD,Airbus A400M,FR,French AF,1,0,0,0,4,LFOB,Tactical airlift
+3f4b7d,F-RBAE,Airbus A400M,FR,French AF,1,0,0,0,4,LFOB,Tactical airlift
+3f4b7e,F-RBAF,Airbus A400M,FR,French AF,1,0,0,0,4,LFOB,Tactical airlift
+3f4b7f,F-RBAG,Airbus A400M,FR,French AF,1,0,0,0,4,LFOB,Tactical airlift
+3f4b80,F-RBAH,Airbus A400M,FR,French AF,1,0,0,0,4,LFOB,Tactical airlift
+3f4b81,F-RBAI,Airbus A400M,FR,French AF,1,0,0,0,4,LFOB,Tactical airlift
+3f4b82,F-RBAJ,Airbus A400M,FR,French AF,1,0,0,0,4,LFOB,Tactical airlift
+3f8519,10+25,Airbus A310-304,DE,Luftwaffe,1,1,1,0,2,EDDB,VIP/Government transport
+4d2228,54+01,Airbus A400M,DE,Luftwaffe,1,0,0,0,4,EDDK,Tactical airlift
+4d2229,54+02,Airbus A400M,DE,Luftwaffe,1,0,0,0,4,EDDK,Tactical airlift
+4d222a,54+03,Airbus A400M,DE,Luftwaffe,1,0,0,0,4,EDDK,Tactical airlift
+4d222b,54+04,Airbus A400M,DE,Luftwaffe,1,0,0,0,4,EDDK,Tactical airlift
+4d222c,54+05,Airbus A400M,DE,Luftwaffe,1,0,0,0,4,EDDK,Tactical airlift
+4d222d,54+06,Airbus A400M,DE,Luftwaffe,1,0,0,0,4,EDDK,Tactical airlift
+4d222e,54+07,Airbus A400M,DE,Luftwaffe,1,0,0,0,4,EDDK,Tactical airlift
+4d222f,54+08,Airbus A400M,DE,Luftwaffe,1,0,0,0,4,EDDK,Tactical airlift
+4d2230,54+09,Airbus A400M,DE,Luftwaffe,1,0,0,0,4,EDDK,Tactical airlift
+4d2231,54+10,Airbus A400M,DE,Luftwaffe,1,0,0,0,4,EDDK,Tactical airlift
+485920,PH-GOV,Boeing 737 BBJ,NL,Dutch Gov,0,1,1,0,1,EHAM,VIP transport - Government and Royal
+354555,T.22-1,Airbus A310-304,ES,Spanish AF,1,1,1,0,2,LEMD,VIP transport - 45 Grupo
+354556,T.22-2,Airbus A310-304,ES,Spanish AF,1,1,1,0,2,LEMD,VIP transport - 45 Grupo
+15770c,RA-96012,Ilyushin Il-96-300PU,RU,Special Flight,1,1,1,0,1,UUMO,Presidential aircraft
+010070,RA-78845,Ilyushin Il-76MD,RU,Russian AF,1,0,0,0,4,UUMO,Strategic airlift
+010071,RA-78846,Ilyushin Il-76MD,RU,Russian AF,1,0,0,0,4,UUMO,Strategic airlift
+010072,RA-78847,Ilyushin Il-76MD,RU,Russian AF,1,0,0,0,4,UUMO,Strategic airlift
+010073,RA-78848,Ilyushin Il-76MD,RU,Russian AF,1,0,0,0,4,UUMO,Strategic airlift
+010074,RA-78849,Ilyushin Il-76MD,RU,Russian AF,1,0,0,0,4,UUMO,Strategic airlift
+010075,RA-78850,Ilyushin Il-76MD,RU,Russian AF,1,0,0,0,4,UUMO,Strategic airlift
+7386c0,4X-ISR,Boeing 767-338ER,IL,Israeli AF,1,1,1,0,1,LLBG,Wing of Zion - Government VIP
+8960b4,A6-HRM,Boeing 747-422,AE,Dubai Air Wing,0,1,1,0,1,OMDB,Government VIP transport
+71be43,HL7643,Boeing 747-8I,KR,ROKAF,1,1,1,0,1,RKSM,Code One - Presidential aircraft
+c2b355,15001,Airbus CC-150,CA,RCAF,1,1,1,0,1,CYOW,VIP - Prime Minister transport
+c2b35f,15002,Airbus CC-150,CA,RCAF,1,1,0,0,3,CYOW,Combi-Freighter configuration
+7cf9c9,A39-007,Airbus KC-30A,AU,RAAF,1,1,1,0,2,RAAF,VIP long-haul transport
+06a037,A7-AAM,Bombardier Global 6000,QA,Qatar Amiri,0,1,1,0,1,OTHH,VIP transport
+70604a,9K-GBB,Airbus A340-541,KW,Kuwait Gov,0,1,1,0,1,OKBK,VIP transport
+70604c,9K-GCC,Boeing 737 BBJ3,KW,Kuwait Gov,0,1,1,0,1,OKBK,VIP transport
+ae5c78,169787,Boeing P-8A,US,US Navy,1,0,0,0,4,KNTU,Maritime patrol/ISR
+ae5c79,169788,Boeing P-8A,US,US Navy,1,0,0,0,4,KNTU,Maritime patrol/ISR
+ae5c7a,169789,Boeing P-8A,US,US Navy,1,0,0,0,4,KNTU,Maritime patrol/ISR
+ae5c7b,169790,Boeing P-8A,US,US Navy,1,0,0,0,4,KNTU,Maritime patrol/ISR
+ae5c7c,169791,Boeing P-8A,US,US Navy,1,0,0,0,4,KNTU,Maritime patrol/ISR
+ae5c7d,169792,Boeing P-8A,US,US Navy,1,0,0,0,4,KNTU,Maritime patrol/ISR
+ae5c7e,169793,Boeing P-8A,US,US Navy,1,0,0,0,4,KNTU,Maritime patrol/ISR
+ae5c7f,169794,Boeing P-8A,US,US Navy,1,0,0,0,4,KNTU,Maritime patrol/ISR
+ae5c80,169795,Boeing P-8A,US,US Navy,1,0,0,0,4,KNTU,Maritime patrol/ISR
+ae5c81,169796,Boeing P-8A,US,US Navy,1,0,0,0,4,KNTU,Maritime patrol/ISR
+ae5c82,169797,Boeing P-8A,US,US Navy,1,0,0,0,4,KNTU,Maritime patrol/ISR
+ae5c83,169798,Boeing P-8A,US,US Navy,1,0,0,0,4,KNTU,Maritime patrol/ISR
+ae09b9,84-0211,Lockheed C-130H,US,USAF,1,0,0,0,4,KLRF,Tactical airlift
+ae09ba,84-0212,Lockheed C-130H,US,USAF,1,0,0,0,4,KLRF,Tactical airlift
+ae09bb,84-0213,Lockheed C-130H,US,USAF,1,0,0,0,4,KLRF,Tactical airlift
+ae09bc,84-0214,Lockheed C-130H,US,USAF,1,0,0,0,4,KLRF,Tactical airlift
+ae09bd,85-0037,Lockheed C-130H,US,USAF,1,0,0,0,4,KLRF,Tactical airlift
+ae09be,85-0038,Lockheed C-130H,US,USAF,1,0,0,0,4,KLRF,Tactical airlift
+ae09bf,85-0039,Lockheed C-130H,US,USAF,1,0,0,0,4,KLRF,Tactical airlift
+ae09c0,85-0040,Lockheed C-130H,US,USAF,1,0,0,0,4,KLRF,Tactical airlift
+ae09c1,86-0413,Lockheed C-130H,US,USAF,1,0,0,0,4,KLRF,Tactical airlift
+ae09c2,86-0414,Lockheed C-130H,US,USAF,1,0,0,0,4,KLRF,Tactical airlift
+ae09c3,86-0415,Lockheed C-130H,US,USAF,1,0,0,0,4,KLRF,Tactical airlift
+ae09c4,86-0416,Lockheed C-130H,US,USAF,1,0,0,0,4,KLRF,Tactical airlift
+ae09c5,87-0123,Lockheed C-130H,US,USAF,1,0,0,0,4,KLRF,Tactical airlift
+ae09c6,87-0124,Lockheed C-130H,US,USAF,1,0,0,0,4,KLRF,Tactical airlift
+ae09c7,87-0125,Lockheed C-130H,US,USAF,1,0,0,0,4,KLRF,Tactical airlift
+ae09c8,87-0126,Lockheed C-130H,US,USAF,1,0,0,0,4,KLRF,Tactical airlift
+ae09c9,88-0191,Lockheed C-130H,US,USAF,1,0,0,0,4,KLRF,Tactical airlift
+ae09ca,88-0192,Lockheed C-130H,US,USAF,1,0,0,0,4,KLRF,Tactical airlift
+ae09cb,88-0193,Lockheed C-130H,US,USAF,1,0,0,0,4,KLRF,Tactical airlift
+ae09cc,88-0194,Lockheed C-130H,US,USAF,1,0,0,0,4,KLRF,Tactical airlift
+a67f46,11-5738,Gulfstream G550,US,USAF,1,1,0,1,3,KAFW,ISR/VIP transport
+a67f47,11-5739,Gulfstream G550,US,USAF,1,1,0,1,3,KAFW,ISR/VIP transport
+a67f48,11-5740,Gulfstream G550,US,USAF,1,1,0,1,3,KAFW,ISR/VIP transport
+a67f49,11-5741,Gulfstream G550,US,USAF,1,1,0,1,3,KAFW,ISR/VIP transport
+acf462,05-4613,Gulfstream C-37A,US,USAF,1,1,1,0,2,KAFW,Senior official transport
+acf463,05-4614,Gulfstream C-37A,US,USAF,1,1,1,0,2,KAFW,Senior official transport
+acd0bc,01-0028,Gulfstream C-37A,US,USAF,1,1,1,0,2,KAFW,Senior official transport
+acd0bd,01-0029,Gulfstream C-37A,US,USAF,1,1,1,0,2,KAFW,Senior official transport
+ae5853,166694,Gulfstream C-37B,US,US Navy,1,1,1,0,2,KNFW,Navy VIP transport
+ae5854,166695,Gulfstream C-37B,US,US Navy,1,1,1,0,2,KNFW,Navy VIP transport
+471f52,0110,Airbus A319CJ,PL,Polish AF,1,1,1,0,1,EPWA,Polish President - Marszałek Józef Piłsudski
+471f53,0111,Boeing 737-8,PL,Polish AF,1,1,1,0,1,EPWA,Polish VIP transport
+471f54,0112,Boeing 737-8,PL,Polish AF,1,1,1,0,1,EPWA,Polish VIP transport
+4ca855,I-TALY,Airbus A319CJ,IT,Italian AF,1,1,1,0,1,LIRA,Italian PM transport
+4ca856,MM62243,Airbus A319CJ,IT,Italian AF,1,1,1,0,1,LIRA,Italian VIP transport
+4b9900,TC-TRK,Boeing 747-8 BBJ,TR,Turkish Gov,0,1,1,0,1,LTAC,Turkish President transport

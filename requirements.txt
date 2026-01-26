@@ -1,0 +1,5 @@
+requests>=2.31.0
+clickhouse-driver>=0.2.9
+python-dotenv>=1.0.0
+pytz>=2023.3
+schedule>=1.2.0
